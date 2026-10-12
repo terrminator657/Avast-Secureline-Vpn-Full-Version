@@ -242,4 +242,4 @@ This repository serves as the official landing page for Avast SecureLine VPN. Th
 **Get the most recent version of Avast SecureLine VPN today!**
 
 ---
-**Last updated:** 2026-10-11 21:14:04 UTC
+**Last updated:** 2026-10-12 00:50:07 UTC
